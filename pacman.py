@@ -11,7 +11,7 @@ Exercises
 
 from random import choice
 from turtle import Turtle, bgcolor, \
-    clear, goto, \
+    clear, up, goto, \
     dot, update, ontimer, setup, \
     hideturtle, tracer, listen, onkey, done
 
